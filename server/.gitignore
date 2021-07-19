@@ -1,0 +1,17 @@
+# Log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build
+dist
+
+# Env
+.env
+
+# Test
+coverage
